@@ -1,0 +1,896 @@
+[{
+        "id": "news",
+        "label": "新图",
+        "tracks": [{
+                "id": 4444,
+                "name": "炎光王城",
+                "stars": 3,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                        "id": 142,
+                        "time": "1:09:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "起源久狐久狐",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "A",
+                            "name": "S-逐星者",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    },
+                    {
+                        "id": 144,
+                        "time": "1:09:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "国服选手",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "A",
+                            "name": "S-逐星者",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    },
+                    {
+                        "id": 675,
+                        "time": "1:05:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "fr源久jg",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "X",
+                            "name": "X-炼狱之力",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    }
+                ]
+
+            },
+            {
+                "id": 42,
+                "name": "十一城",
+                "stars": 1,
+
+                "new": false,
+                "sea": false,
+                "old": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 9,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "起源久狐手术室",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 373,
+                        "rank": "A",
+                        "name": "迈凯伦600LT",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            }
+        ]
+    },
+    {
+        "id": "olds",
+        "label": "怀旧图",
+        "tracks": [{
+                "id": 247,
+                "name": "反向亚特兰蒂斯",
+                "stars": 4,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 3,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "起源久狐久狐",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 3,
+                        "rank": "A",
+                        "name": "S-逐星者",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            },
+            {
+                "id": 333,
+                "name": "TROY-零号试验场",
+                "stars": 4,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": true,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 3,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "17_Xtreme",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 3,
+                        "rank": "A",
+                        "name": "S-逐星者",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            }
+        ]
+    },
+    {
+        "id": "s1s",
+        "label": "1星图",
+        "tracks": [{
+                "id": 733,
+                "name": "中国城",
+                "stars": 1,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                        "id": 652,
+                        "time": "1:09:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "起源久狐久狐",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "A",
+                            "name": "S-逐星者",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    },
+                    {
+                        "id": 243,
+                        "time": "1:05:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "fr源久jg",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "X",
+                            "name": "X-炼狱之力",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    }
+                ]
+
+            },
+            {
+                "id": 3332,
+                "name": "中国城",
+                "stars": 1,
+
+                "new": false,
+                "sea": false,
+                "old": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 9,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "起源久狐久狐",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 3,
+                        "rank": "A",
+                        "name": "S-逐星者",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            }
+        ]
+    },
+    {
+        "id": "s7s",
+        "label": "7星图",
+        "tracks": [{
+                "id": 733,
+                "name": "中国城",
+                "stars": 1,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                        "id": 652,
+                        "time": "1:09:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "起源久狐久狐",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "A",
+                            "name": "S-逐星者",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    },
+                    {
+                        "id": 243,
+                        "time": "1:05:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "fr源久jg",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "X",
+                            "name": "X-炼狱之力",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    }
+                ]
+
+            },
+            {
+                "id": 3332,
+                "name": "中国城",
+                "stars": 1,
+
+                "new": false,
+                "sea": false,
+                "old": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 9,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "起源久狐久狐",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 3,
+                        "rank": "A",
+                        "name": "S-逐星者",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            }
+        ]
+    },
+    {
+        "id": "s3s",
+        "label": "3星图",
+        "tracks": [{
+                "id": 733,
+                "name": "中国城",
+                "stars": 1,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                        "id": 652,
+                        "time": "1:09:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "起源久狐久狐",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "A",
+                            "name": "S-逐星者",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    },
+                    {
+                        "id": 243,
+                        "time": "1:05:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "fr源久jg",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "X",
+                            "name": "X-炼狱之力",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    }
+                ]
+
+            },
+            {
+                "id": 3332,
+                "name": "中国城",
+                "stars": 1,
+
+                "new": false,
+                "sea": false,
+                "old": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 9,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "起源久狐久狐",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 3,
+                        "rank": "A",
+                        "name": "S-逐星者",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            }
+        ]
+    },
+    {
+        "id": "s2s",
+        "label": "2星图",
+        "tracks": [{
+                "id": 733,
+                "name": "中国城",
+                "stars": 1,
+                "new": false,
+                "sea": false,
+                "old": false,
+                "relay": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                        "id": 652,
+                        "time": "1:09:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "起源久狐久狐",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "A",
+                            "name": "S-逐星者",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    },
+                    {
+                        "id": 243,
+                        "time": "1:05:95",
+                        "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                        "player": {
+                            "id": 1,
+                            "name": "fr源久jg",
+                            "team": {
+                                "id": 2,
+                                "name": "范特西"
+                            }
+                        },
+                        "car": {
+                            "id": 3,
+                            "rank": "X",
+                            "name": "X-炼狱之力",
+                            "color": "#ff4400",
+                            "carSkin": {
+                                "id": 1,
+                                "name": "QG"
+                            },
+                            "ecu": {
+                                "id": 1,
+                                "name": "流星冲刺"
+                            }
+                        },
+                        "pet": {
+                            "id": 1,
+                            "type": "a-pet-ecu",
+                            "name": "贪狼",
+                            "color": "#ff4400",
+                            "petSkin": {
+                                "id": 2,
+                                "name": "血冥幽狼"
+                            }
+                        },
+                        "date": "2020-09-07",
+                        "dateCH": "5分钟前"
+                    }
+                ]
+
+            },
+            {
+                "id": 3332,
+                "name": "中国城",
+                "stars": 1,
+
+                "new": false,
+                "sea": false,
+                "old": false,
+                "league": false,
+                "class": "zgc",
+
+                "records": [{
+                    "id": 9,
+                    "time": "1:09:95",
+                    "url": "https://www.bilibili.com/video/BV1wv411x7tq",
+                    "player": {
+                        "id": 1,
+                        "name": "起源久狐久狐",
+                        "team": {
+                            "id": 2,
+                            "name": "范特西"
+                        }
+                    },
+                    "car": {
+                        "id": 3,
+                        "rank": "A",
+                        "name": "S-逐星者",
+                        "color": "#ff4400",
+                        "carSkin": {
+                            "id": 1,
+                            "name": "QG"
+                        },
+                        "ecu": {
+                            "id": 1,
+                            "name": "流星冲刺"
+                        }
+                    },
+                    "pet": {
+                        "id": 1,
+                        "type": "a-pet-ecu",
+                        "name": "贪狼",
+                        "color": "#ff4400",
+                        "petSkin": {
+                            "id": 2,
+                            "name": "血冥幽狼"
+                        }
+                    },
+                    "date": "2020-09-07",
+                    "dateCH": "5分钟前"
+                }]
+
+            }
+        ]
+    }
+
+
+]

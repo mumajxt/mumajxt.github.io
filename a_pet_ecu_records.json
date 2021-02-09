@@ -1,7 +1,9 @@
 [{
         "id": 1,
+        "type": "a-pet-ecu",
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "中国城",
             "stars": 1,
             "new": false,
@@ -11,17 +13,22 @@
             "league": false,
             "class": "zgc"
         },
-        "time": "01:09:95",
+        "time": "1:09:95",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 1,
-            "name": "起源久狐",
+            "type": "a-pet-ecu",
+            "name": "起源久狐久狐",
             "team": {
                 "id": 2,
                 "name": "范特西"
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -34,6 +41,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -44,6 +52,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -55,7 +64,8 @@
                 "name": "血冥幽狼"
             }
         },
-        "date": "2020-09-07"
+        "date": "2020-09-07",
+        "dateCH": "5分钟前"
     },
     {
         "id": 2,
@@ -70,7 +80,10 @@
             "league": false,
             "class": "qmaqh"
         },
-        "time": "01:33:55",
+        "time": "1:33:55",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 2,
@@ -81,6 +94,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "暗耀武神",
             "color": {
                 "r": 57,
@@ -92,6 +106,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -110,12 +125,14 @@
             },
             "petSkin": null
         },
-        "date": "2020-01-16"
+        "date": "2020-01-16",
+        "dateCH": "1-18"
     },
     {
         "id": 3,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "反向亚特兰蒂斯",
             "stars": 3,
             "new": false,
@@ -125,7 +142,10 @@
             "league": true,
             "class": "fxytlds"
         },
-        "time": "01:49:84",
+        "time": "1:49:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 2,
@@ -136,6 +156,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "迈凯伦600LT",
             "id": 5,
             "color": {
@@ -169,13 +190,15 @@
                 "name": "化蝶"
             }
         },
-        "date": "2021-01-16"
+        "date": "2021-01-16",
+        "dateCH": "2天前"
     },
     {
         "id": 4,
         "track": {
             "id": 1,
-            "name": "TROY-熔炼车间",
+            "type": "a-pet-ecu",
+            "name": "TROY-零号试验场",
             "stars": 4,
             "new": false,
             "sea": false,
@@ -184,7 +207,10 @@
             "league": true,
             "class": "rlcj"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 3,
@@ -195,6 +221,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-裁决者",
             "id": 2,
             "color": {
@@ -207,6 +234,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -225,12 +253,14 @@
             },
             "petSkin": null
         },
-        "date": "2020-11-05"
+        "date": "2021-01-30",
+        "dateCH": "一一一一一"
     },
     {
         "id": 5,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "长城",
             "stars": 4,
             "new": false,
@@ -240,7 +270,10 @@
             "league": true,
             "class": "cc"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 3,
@@ -251,6 +284,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "迈凯伦600LT",
             "id": 5,
             "color": {
@@ -263,6 +297,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -284,12 +319,14 @@
                 "name": "血鹰"
             }
         },
-        "date": "2021-01-15"
+        "date": "2021-01-15",
+        "dateCH": "3天前"
     },
     {
         "id": 6,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "西部矿山",
             "stars": 5,
             "new": false,
@@ -299,7 +336,10 @@
             "league": true,
             "class": "xbks"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 3,
@@ -310,6 +350,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -322,6 +363,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -343,12 +385,14 @@
                 "name": "血鹰"
             }
         },
-        "date": "2021-01-14"
+        "date": "2021-01-29",
+        "dateCH": "2020-6-4"
     },
     {
         "id": 7,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "冰原前哨",
             "stars": 3,
             "new": false,
@@ -358,7 +402,10 @@
             "league": false,
             "class": "byqs"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 3,
@@ -369,6 +416,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -381,6 +429,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -402,12 +451,14 @@
                 "name": "血鹰"
             }
         },
-        "date": "2021-01-13"
+        "date": "2021-01-13",
+        "dateCH": "40分钟前"
     },
     {
         "id": 8,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "美洲大峡谷",
             "stars": 6,
             "new": false,
@@ -417,17 +468,22 @@
             "league": true,
             "class": "mzdxg"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": "https://www.bilibili.com/video/BV1wv411x7tq",
         "player": {
             "id": 3,
-            "name": "Az·YL陈枨",
+            "name": "Az·YL陈枨订单",
             "team": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "Az"
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -440,6 +496,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -461,12 +518,14 @@
                 "name": "化蝶"
             }
         },
-        "date": "2020-11-28"
+        "date": "2020-11-28",
+        "dateCH": "16:54"
     },
     {
         "id": 9,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "利维坦激流",
             "stars": 3,
             "new": false,
@@ -476,17 +535,22 @@
             "league": false,
             "class": "lwtjl"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 3,
             "name": "Az·YL陈枨",
             "team": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "Az"
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -499,6 +563,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -520,12 +585,14 @@
                 "name": "化蝶"
             }
         },
-        "date": "2020-05-28"
+        "date": "2020-05-28",
+        "dateCH": "16:54"
     },
     {
         "id": 10,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "龙腾灯海",
             "stars": 3,
             "new": false,
@@ -535,7 +602,10 @@
             "league": false,
             "class": "ltdh"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 3,
@@ -543,6 +613,7 @@
             "team": null
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -555,6 +626,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -576,12 +648,14 @@
                 "name": "化蝶"
             }
         },
-        "date": "2020-11-28"
+        "date": "2020-11-28",
+        "dateCH": "16:54"
     },
     {
         "id": 11,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "神秘之都",
             "stars": 99,
             "new": false,
@@ -591,17 +665,22 @@
             "league": false,
             "class": "ll"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 10,
             "name": "野",
             "team": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "Az"
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -614,6 +693,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -635,12 +715,14 @@
                 "name": "化蝶"
             }
         },
-        "date": "2020-11-05"
+        "date": "2020-11-05",
+        "dateCH": "刚刚"
     },
     {
         "id": 12,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "小猪部落",
             "stars": 3,
             "new": false,
@@ -650,17 +732,22 @@
             "league": false,
             "class": "xzbl"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 10,
             "name": "野",
             "team": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "Az"
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -673,6 +760,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -694,12 +782,14 @@
                 "name": "化蝶"
             }
         },
-        "date": "2021-01-05"
+        "date": "2021-01-05",
+        "dateCH": "16:54"
     },
     {
         "id": 13,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "阿尔法总部",
             "stars": 3,
             "new": true,
@@ -709,17 +799,22 @@
             "league": true,
             "class": "aefzb"
         },
-        "time": "01:22:84",
+        "time": "1:22:84",
         "url": null,
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "player": {
             "id": 10,
             "name": "野",
             "team": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "Az"
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-逐星者",
             "id": 3,
             "color": {
@@ -732,6 +827,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -753,12 +849,14 @@
                 "name": "化蝶"
             }
         },
-        "date": "2020-11-22"
+        "date": "2020-11-22",
+        "dateCH": "今天"
     },
     {
         "id": 14,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "十一城",
             "stars": 3,
             "new": true,
@@ -768,7 +866,10 @@
             "league": true,
             "class": "syc"
         },
-        "time": "01:45:84",
+        "time": "1:45:84",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 4,
@@ -779,6 +880,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -791,6 +893,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -801,6 +904,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -812,12 +916,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2020-11-22"
+        "date": "2020-11-22",
+        "dateCH": "2020.11.22"
     },
     {
         "id": 15,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "炎光王城",
             "stars": 3,
             "new": true,
@@ -827,7 +933,10 @@
             "league": true,
             "class": "ygwc"
         },
-        "time": "01:33:89",
+        "time": "1:33:89",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 4,
@@ -838,6 +947,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -848,18 +958,11 @@
             "carSkin": {
                 "name": "带冰的皮肤"
             },
-            "ecu": {
-                "id": 1,
-                "name": "流星冲刺",
-                "color": {
-                    "r": 237,
-                    "g": 196,
-                    "b": 132
-                }
-            }
+            "ecu": null
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -871,12 +974,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2020-11-22"
+        "date": "2020-11-22",
+        "dateCH": "2020-11-22"
     },
     {
         "id": 16,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "时之沙",
             "stars": 3,
             "new": true,
@@ -886,7 +991,10 @@
             "league": true,
             "class": "szs"
         },
-        "time": "01:15:89",
+        "time": "1:15:89",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 4,
@@ -897,6 +1005,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -909,6 +1018,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -919,6 +1029,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -930,12 +1041,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2021-01-22"
+        "date": "2021-01-22",
+        "dateCH": "6小时前"
     },
     {
         "id": 17,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "老街管道",
             "stars": 1,
             "new": false,
@@ -945,7 +1058,10 @@
             "league": true,
             "class": "ljgd"
         },
-        "time": "01:15:89",
+        "time": "1:15:89",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 4,
@@ -956,6 +1072,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -968,6 +1085,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -978,6 +1096,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -989,12 +1108,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2021-01-22"
+        "date": "2020-01-22",
+        "dateCH": "刚刚"
     },
     {
         "id": 18,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "玫瑰之恋",
             "stars": 2,
             "new": false,
@@ -1004,7 +1125,10 @@
             "league": true,
             "class": "mgzl"
         },
-        "time": "01:15:89",
+        "time": "1:15:89",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 4,
@@ -1015,6 +1139,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -1027,6 +1152,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -1037,6 +1163,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -1048,12 +1175,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2021-01-21"
+        "date": "2021-01-21",
+        "dateCH": "昨天16:54"
     },
     {
         "id": 19,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "法老金字塔",
             "stars": 2,
             "new": false,
@@ -1063,8 +1192,10 @@
             "league": false,
             "class": "fljzt"
         },
-        "time": "01:15:89",
-        "url": null,
+        "time": "1:15:89",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "player": {
             "id": 4,
             "name": "OYaJi",
@@ -1074,6 +1205,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -1086,6 +1218,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -1096,6 +1229,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -1107,12 +1241,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2021-01-20"
+        "date": "2021-01-20",
+        "dateCH": "昨天16:54"
     },
     {
         "id": 20,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "冰川滑雪场",
             "stars": 2,
             "new": false,
@@ -1122,7 +1258,10 @@
             "league": false,
             "class": "bchxc"
         },
-        "time": "01:15:89",
+        "time": "1:15:89",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 4,
@@ -1133,6 +1272,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "永夜君主",
             "id": 4,
             "color": {
@@ -1145,6 +1285,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -1155,6 +1296,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -1166,12 +1308,14 @@
                 "name": "红色迪迦"
             }
         },
-        "date": "2021-01-21"
+        "date": "2021-01-21",
+        "dateCH": "16:54"
     },
     {
         "id": 21,
         "track": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "极速空港",
             "stars": 7,
             "new": false,
@@ -1181,7 +1325,10 @@
             "league": true,
             "class": "jskg"
         },
-        "time": "01:24:99",
+        "time": "1:24:99",
+        "minute": "1",
+        "second": "26",
+        "millisecond": "99",
         "url": null,
         "player": {
             "id": 3,
@@ -1192,6 +1339,7 @@
             }
         },
         "car": {
+            "rank": "A",
             "name": "S-裁决者",
             "id": 2,
             "color": {
@@ -1204,6 +1352,7 @@
             },
             "ecu": {
                 "id": 1,
+                "type": "a-pet-ecu",
                 "name": "流星冲刺",
                 "color": {
                     "r": 237,
@@ -1214,6 +1363,7 @@
         },
         "pet": {
             "id": 1,
+            "type": "a-pet-ecu",
             "name": "贪狼",
             "color": {
                 "r": 4,
@@ -1225,6 +1375,7 @@
                 "name": "薛明有狼"
             }
         },
-        "date": "2021-01-21"
+        "date": "2021-01-21",
+        "dateCH": "16:54"
     }
 ]
